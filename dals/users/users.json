@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "userName": "yaniv@gmail.com",
+            "password": "Q1234q",
+            "createdDate": "2020-10-23",
+            "numOfTransaction": 8,
+            "id": 1,
+            "isAdmin": true
+        },
+        {
+            "userName": "dana@gmail.com",
+            "password": "W1234w",
+            "createdDate": "2020-10-23",
+            "numOfTransaction": 5,
+            "id": 2,
+            "isAdmin": false
+        },
+        {
+            "userName": "alona@gmail.com",
+            "password": "W1234w",
+            "createdDate": "2020-10-20",
+            "numOfTransaction": 3,
+            "id": 3,
+            "isAdmin": false
+        },
+        {
+            "userName": "avi@yahoo.co.il",
+            "password": "W1234w",
+            "createdDate": "2020-10-06",
+            "numOfTransaction": 6,
+            "id": 4,
+            "isAdmin": false
+        }
+    ]
+}
